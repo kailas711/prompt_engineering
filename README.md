@@ -14,3 +14,8 @@ Link -- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/
 ![image](https://user-images.githubusercontent.com/89206677/236182126-767e0089-5606-46ae-bf26-f04d75e460a1.png)
 
 
+| S.No | Method   | Describtion  |
+|---|---|---|
+| 1  | Guidelines  |  General guidelines , covering 2 major principles in prompting |
+|   |   |   |
+|   |   |   |
