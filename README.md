@@ -1,4 +1,4 @@
-# Prompt Eengineering
+# Prompt Engineering
 
 Its a strategy that machine learning engineers can use to train large language models (LLMs) so the same model can be used for different tasks without re-training.
 
