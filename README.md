@@ -6,11 +6,11 @@ Effective prompt engineering involves understanding the goals and limitations of
 
 if you are a beginner start here -- [Prompt Engineering Datacamp](https://www.datacamp.com/webinars/beginners-guide-to-prompt-engineering-with-chatgpt)
 
-For building more specialized applications and also train LLMs on custom data OpenAi has an amazing course using their own API
+For building more specialized applications OpenAi has an amazing course using their own API
 
 Link -- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
 
-![image](https://user-images.githubusercontent.com/89206677/235996029-46057faf-6976-42b9-af3f-c1bb9be735d4.png)
+![image](https://user-images.githubusercontent.com/89206677/236182126-767e0089-5606-46ae-bf26-f04d75e460a1.png)
 
 
