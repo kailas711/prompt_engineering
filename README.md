@@ -10,7 +10,10 @@ Effective prompt engineering involves understanding the goals and limitations of
 if you are a beginner start here -- [Prompt Engineering Datacamp](https://www.datacamp.com/webinars/beginners-guide-to-prompt-engineering-with-chatgpt)
 
 
-![image](https://user-images.githubusercontent.com/89206677/236182126-767e0089-5606-46ae-bf26-f04d75e460a1.png)
+My tiny chatbot based on `gpt-3.5-turbo`
+
+![image](https://user-images.githubusercontent.com/89206677/236676058-eeec07a7-0d67-4706-ac4f-ca01f66dcb5d.png)
+
 
 
 | S.No | Method   | Describtion  |
