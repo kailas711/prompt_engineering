@@ -17,5 +17,8 @@ Link -- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/
 | S.No | Method   | Describtion  |
 |---|---|---|
 | 1  | Guidelines  |  General guidelines , covering 2 major principles in prompting |
-|   |   |   |
-|   |   |   |
+| 2  |  Iterative Prompting | Once we set a context , iteratively improve prompt   |
+| 3 |  Summarizing and Inferring | using `gpt-3.5-turbo` for text summerization and inference  |
+| 3 |  Transforming and Expanding | using `gpt-3.5-turbo` for text transforming and expanding , generate emails, content etc   |
+| 4 | Tiny  ChatBot |  utilize the chat format to have extended conversations with chatbots  |
+
