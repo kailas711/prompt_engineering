@@ -18,9 +18,9 @@ My tiny chatbot based on `gpt-3.5-turbo`
 
 | S.No | Method   | Describtion  |
 |---|---|---|
-| 1  | Guidelines  |  General guidelines , covering 2 major principles in prompting |
-| 2  |  Iterative Prompting | Once we set a context , iteratively improve prompt   |
-| 3 |  Summarizing and Inferring | using `gpt-3.5-turbo` for text summerization and inference  |
-| 3 |  Transforming and Expanding | using `gpt-3.5-turbo` for text transforming and expanding , generate emails, content etc   |
-| 4 | Tiny  ChatBot |  utilize the chat format to have extended conversations with chatbots  |
+| 1  | [Guidelines](https://github.com/kailas711/prompt_engineering/blob/main/Basic_principles.ipynb) |  General guidelines , covering 2 major principles in prompting |
+| 2  |  [Iterative Prompting](https://github.com/kailas711/prompt_engineering/blob/main/Iterative%20Prompting.ipynb) | Once we set a context , iteratively improve prompt   |
+| 3 |  [Summarizing and Inferring](https://github.com/kailas711/prompt_engineering/blob/main/Summarizing%20and%20Inferring.ipynb) | using `gpt-3.5-turbo` for text summerization and inference  |
+| 3 |  [Transforming and Expanding](https://github.com/kailas711/prompt_engineering/blob/main/Transforming%20and%20Expanding.ipynb) | using `gpt-3.5-turbo` for text transforming and expanding , generate emails, content etc   |
+| 4 | [Tiny  ChatBot](https://github.com/kailas711/prompt_engineering/blob/main/OderBot.ipynb) |  utilize the chat format to have extended conversations with chatbots  |
 
